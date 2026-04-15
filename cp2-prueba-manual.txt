@@ -1,0 +1,3 @@
+Comando de prueba: python contador.py 5
+Resultado actual: 
+Explicación de cómo se decide si un commit es good o bad: Si el resultado es 6, es good; si es 7, es bad.

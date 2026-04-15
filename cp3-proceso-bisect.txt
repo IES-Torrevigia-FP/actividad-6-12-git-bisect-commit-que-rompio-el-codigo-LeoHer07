@@ -1,0 +1,3 @@
+Commit marcado como good: <hash_commit_bueno> - <mensaje_commit_bueno>
+Commit marcado como bad inicial: <hash_commit_bad> - <mensaje_commit_bad>
+Commit identificado como first bad commit: <hash_commit_bad_final> - <mensaje_commit_bad_final>

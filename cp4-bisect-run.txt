@@ -1,0 +1,5 @@
+Contenido de test_contador.sh:
+
+
+Resultado final de git bisect run:
+

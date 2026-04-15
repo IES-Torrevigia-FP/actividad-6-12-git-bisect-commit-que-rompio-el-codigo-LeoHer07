@@ -1,0 +1,7 @@
+fc1a1c3 Añade comentario 3
+41777b7 Introduce bug en siguiente (suma 2)
+a48913e Añade comentario 2
+0b846d8 Añade comentario 1
+bb16701 Versión inicial correcta de contador
+f87a788 add deadline
+e09799d Initial commit
